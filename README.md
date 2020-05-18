@@ -1,2 +1,2 @@
-# practice-C-
+# practice-C＋＋
 c++の練習用
