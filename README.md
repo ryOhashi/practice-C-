@@ -1,7 +1,7 @@
 # practice-CPP
 
-c++の練習用  
-http://cpp-lang.sevendays-study.com/  
+c++の練習用
+http://cpp-lang.sevendays-study.com/
 ↑ 参考サイト
 
 https://github.com/google/googletest/releases/tag/release-1.10.0 ↑Google Test
